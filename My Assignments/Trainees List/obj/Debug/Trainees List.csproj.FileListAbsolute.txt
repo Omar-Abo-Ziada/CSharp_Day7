@@ -1,0 +1,10 @@
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day7\My Assignments\Trainees List\bin\Debug\Trainees List.exe.config
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day7\My Assignments\Trainees List\bin\Debug\Trainees List.exe
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day7\My Assignments\Trainees List\bin\Debug\Trainees List.pdb
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day7\My Assignments\Trainees List\obj\Debug\Trainees List.csproj.AssemblyReference.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day7\My Assignments\Trainees List\obj\Debug\Trainees_List.Form1.resources
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day7\My Assignments\Trainees List\obj\Debug\Trainees_List.Properties.Resources.resources
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day7\My Assignments\Trainees List\obj\Debug\Trainees List.csproj.GenerateResource.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day7\My Assignments\Trainees List\obj\Debug\Trainees List.csproj.CoreCompileInputs.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day7\My Assignments\Trainees List\obj\Debug\Trainees List.exe
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day7\My Assignments\Trainees List\obj\Debug\Trainees List.pdb

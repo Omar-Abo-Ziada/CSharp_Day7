@@ -1,0 +1,10 @@
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day7\My Assignments\Registration\bin\Debug\Registration.exe.config
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day7\My Assignments\Registration\bin\Debug\Registration.exe
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day7\My Assignments\Registration\bin\Debug\Registration.pdb
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day7\My Assignments\Registration\obj\Debug\Registration.csproj.AssemblyReference.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day7\My Assignments\Registration\obj\Debug\Registration.Registeration.resources
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day7\My Assignments\Registration\obj\Debug\Registration.Properties.Resources.resources
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day7\My Assignments\Registration\obj\Debug\Registration.csproj.GenerateResource.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day7\My Assignments\Registration\obj\Debug\Registration.csproj.CoreCompileInputs.cache
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day7\My Assignments\Registration\obj\Debug\Registration.exe
+O:\Software_Courses\My_ITI_44\16-C_Sharp\Day7\My Assignments\Registration\obj\Debug\Registration.pdb
